@@ -1,0 +1,71 @@
+Data : 
+1.Data means person name, age , address, bank balance, school details, statistics
+2.Also data can be any form like image, video, text, document
+3.this data can be stored in a container. That container is called DB
+4.if data is stored in db anyone can easily access, modified, protected, analysed
+5.DBMS is a software used to manage the database. Need DBMS to interactive with database to store modify, retrieve and protect the data
+6. DBMS is a software (get the data from db)
+popular dbms are :
+mysql, 2.postgre sql, Microsoft sql server, oracle db, sql lite,
+mongodb, redis,cassandra
+
+
+
+1.amazon website/flipcart website wont be down at any time
+2.it runs 365 days 24/7
+3.govt portals are down
+
+m - meta
+a - antropic
+a - apple
+n - Netflix
+g - google
+o - open ai these servers very rare you see the downtime
+
+1. when i login into flipcart.com it touches to backend
+2.in real time it touches to the production server
+3.when production server down flipcart dont run
+4.in your organization every client has own app.
+5.some developer change the code. The code script is there 
+6.Do not touch production server, if 2m server is down 2 million business is down
+7.if any updates, issues happened in ps they will stop the code then the website is down
+8.in an organization few employees touch the ps .they are expertise
+9.They will clone the duplicate data . The duplicate data is called application server
+10.in organization you dont get access for ps
+11.in application server they build code, app and test. If any error happens in application server the website is safe
+12.You build ml models in application server. The code is completed. That code should be visible in app
+13.whatever the code you done in AS should be paste in PS, then the code is visible in app so this process is called deployment
+
+what are the challenges you face while you doing from AP TO PS deployment process :
+1.Firewall issues
+2.Bigdata
+
+BIG BILLION DAY / COUNTRY WISE
+1.ALL users hits the DB At a time 
+2.they introduce a scaling concepts horizontal/vertical scaling called as Hadoop
+3.All these comes under system design
+4.AI system design (forward deployed ai engineers)
+
+DBeaver download the community edition :
+1.go to plugin select sql lite
+2.in path browse to your .db file
+3.click test connection
+4.click finish
+
+https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation(client business)
+client bussiness stored in db end to end
+export the whole data into csv file
+
+select * from data_set1
+
+
+
+
+
+
+
+
+
+
+
+
