@@ -1,0 +1,14 @@
+ETL stands for Extract, Transform, Load.
+
+ETL -- > from local server to master server
+
+Dmart contains the raw data 
+the raw data is converted into clean data will apply some techniques called eda techniques
+
+EDA STANDS FOR:
+Exploratory Data Analysis.
+
+how eda technique connected to ML
+
+EDA technique applied for structured data
+DATA BRICKS applied for unstructured data
