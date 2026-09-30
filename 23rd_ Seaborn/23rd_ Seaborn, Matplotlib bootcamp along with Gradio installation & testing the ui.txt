@@ -1,0 +1,9 @@
+Team, 
+
+Please find the below git link to get code documentation 
+https://github.com/kodigitaccount/SEABORN_BOOTCAMP
+https://github.com/kodigitaccount/MATPLOTLIB
+--------
+gradio code manual -->
+-------
+https://gradio.app/guides/creating-a-chatbot-fast

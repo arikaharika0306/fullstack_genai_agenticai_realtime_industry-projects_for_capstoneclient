@@ -1,0 +1,30 @@
+https://github.com/kodigitaccount/MATPLOTLIB.git (old account)
+
+1. git clone https://github.com/kodigitaccount/MATPLOTLIB.git
+2.cd MATPLOTLIB
+3.Check the current remote :
+git remote -v
+4.Remove the old remote:
+git remote remove origin
+
+5. create a new repository for the current account
+6.Connect your local project to the new repository :
+git remote add origin https://github.com/arikaharika0306/Matplotlib.git
+
+
+7.git remote -v
+8. to know your branch :
+git branch --show-current
+9.git branch -M main
+git push -u origin main
+
+8. git clone --mirror https://github.com/kodigitaccount/MATPLOTLIB.git
+cd MATPLOTLIB.git
+
+9.git push --mirror https://github.com/arikaharika0306/Matplotlib.git
+
+
+
+https://github.com/kodigitaccount/SEABORN_BOOTCAMP.git
+https://github.com/arikaharika0306/seaborn_bootcamp.git
+
