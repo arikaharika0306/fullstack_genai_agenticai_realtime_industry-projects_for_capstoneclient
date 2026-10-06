@@ -1,0 +1,20 @@
+* we are learning descriptive statistics
+* We learn what is the measurment of central tendency -mean,median & mode
+
+SKEWNESS -- (part-1)
+ 
+* what is the measurment of asymmetry - most common tool to measure asymmetry is skewness
+* skewnes indicates whether the data is concentrated on one side or not
+* last class we saw how to find frequency distribution table 
+* we have 3 dataset & their frequency distribution table
+* first dataset Mean > median in this condition we can say that +ve skew
+* from the graph we can clearly say that datapoints are concentrate on the left side
+* always rember in skewness always on which side tail is leading to
+* right skewness is clearly shows that outlier to the right
+* second dataset we can say mean = median = mode & frequency of occurance is completly symmetrical & we can 
+  called as 0 assymetric or no skew
+* 3rd dataset mean < median we can say that -ve skew & highest point defined by mode
+* we called as left skew because outlier indicates to left
+* why the skewness is important because skewness tell us where the data is situated
+* mean,median & mode shoud be use together to get the good understanding b/w datasets
+==============================================================================================================

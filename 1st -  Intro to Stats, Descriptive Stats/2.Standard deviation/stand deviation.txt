@@ -1,0 +1,28 @@
+PART-4
+
+STANDARD DEVIATION (sd)- 
+
+* SD is the much more meaningfull then variance
+* sd formula also different for population sd & sample sd
+* pop sd (sigma) = square root of sigma square & sample sd (s)= square root of s square
+
+* Coefficient of variation (cv) = sd/mean. coefficient of variation is also called as relative SD
+* SD is the most common measure of variability for single dataset but why we required other measures called as 
+  CV because you cannot compare 2 dataset using SD but when you can comparing coefficient between 2 or more datasets.
+* Lets see the example of prices of the pizza of 10 different places, n=10 & they range from $1 to $11
+* imagin you have only mexican pesos is the mexican curency exchange rate from 1 dollar 18.81 to 206.91
+* Now we have 2 dataset hear
+* step - 1: are they sample or population? are they only 11 resturent in NY ofcourse they not so this would be sample
+* step - 2 : we have to find the mean( mean of piza in dollar & mxn)
+* step - 3 : find the sample variance * step - 4:find the standard deviation
+
+* Now lets look at couple of observation -  variance gives result in square units while SD gives in originla units
+* This is the reason why all professional used SD is the preferred measure of variablity, as it is directly interpretable
+* same pizza, same resturent but different standard deviation which seems wrong now lets use last measure coefficient of variation
+* dividing the sd by the respactive means we get the 2 coefficient of variation and the result would be same as 0.60
+* if you notice that is not the dolar or pesos, dolar or pesos square . it is just 0.60 
+* This is very good advantage coefficient of variation gives us & now based on this coefficient we conclude as 2 dataset has same 
+  variablity & this is what we except 
+* Finally we learnt the different measures of variability as variance, standard deviation & coefficient of variation
+* This 3 we also called as univariate measures - measures of central tend, measures of asymmetry, measures of variability.
+====================================================================================================================================

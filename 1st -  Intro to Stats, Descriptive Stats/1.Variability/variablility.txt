@@ -1,0 +1,40 @@
+(PART - 2)
+
+*** MEASURES OF --- 1> Central Tendency
+	    	    2> Asymmetry
+                    3> Variability
+
+* There are many ways to quantify the variablity but we will focus most common one -- 
+			<i> variance 
+			<ii> standard deviation
+			<iii> Coefficient of variation
+* we do understand about population and sample, also we called as population data & sample data
+* when you have only population data that mean you can calculate measure as per populatin data points
+* same way when you take the sample of the population we can say that approximation of population parameter
+* if you extract 10 different sample from the population you will get 10 different measures
+* sample mean is the average of the sample datapoint & population mean is average of population datapoints
+* Technically 2 different formula but they are computed in same way
+* Now lets talk about VARIANCE
+
+================================================================================================================
+
+(PART-3)
+
+VARIANCE --
+
+* Variance measures the dispersion of set of datapoints around their mean value
+* population variance denoted by (sigma squre) = sum of square differences b/w observed value & the population 
+  mean divided by total no. of observation
+* sample variance is denoted by s2 = sum of square differences b/w observed sample value & the sample mean 
+  divided by the no. of sample observation minus 1
+* We are doing square- because we will get the non-negative value & dispersion(distance) cannot be negative
+
+* Now lets understand with example of population variance
+* we have population of 5 observation(1 to 5) lets find the variance by calculation their mean & after we apply 
+  the population formula not sample formula & all of componenets have to be divided by 5 we get the population 
+  variance of the dataset = 2
+* what about sample variance -- sample variance formula is used when our set of observation is a sample drawn 
+  from a bigger population
+* sample variance everything is same insted of 5 numerator is 4 & we will find the sample variance is 2.50
+* In variance we could identify the spread of the data
+================================================================================================================
