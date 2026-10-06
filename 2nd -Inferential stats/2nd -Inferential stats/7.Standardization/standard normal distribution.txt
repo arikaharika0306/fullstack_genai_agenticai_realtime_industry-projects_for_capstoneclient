@@ -1,0 +1,20 @@
+Standarization or standard normal distribution - 
+
+* standard normal distribution is the particular case for the normal distribution
+* statician can denote the letter 'Z' for standard normal distribution
+* it has mean is 0 & standard deviation is 1
+* standard normal distribution is easy to understand 
+* Every normal distribution can be standardized. 
+* standardization is the process of turning normal distributed variable to standard normal distribution using simple formula
+* variable which convert normal distribution variable to standard normal distribution is called z-score
+* formaula of the z-score = original variable - mean / standard deviation
+* lets look at the numerator -- if you take a dataset, subtract its mean from each datapoint and then calculate the mean once 
+  again,you will get 0 & lets see the example -
+* As per the dataset example mean is 3, std.dev is 1.22 & now lets substract the mean from all datapoint now you will get new dataset
+* lets calculate the new datasets mean = 0 & std.dev = 1.22
+* Next step what we have to do is standardization-  as per exampe we have one dataset and we
+  generate another dataset by using by substracting finally we saw the mean is different & SD is same
+* so Hear by adding or substracting doesnot change standard deviation
+* Now lets devide each datapoint to 1.22 and if we calculate let the new dataset generate from new dataset , we find new standarizaion mean is 0 & sd is 1.00
+* This is how you have to do the standardiazation or standard normal distribution
+================================================================================================================================================

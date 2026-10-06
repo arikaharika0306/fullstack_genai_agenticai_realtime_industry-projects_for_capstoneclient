@@ -1,0 +1,7 @@
+STANDARD ERROR - 
+
+* standard error is the standard deviation of the distribution formed by sample means
+* we know the variance -- sigma square / n ( therefore SD = ROOT OF SIGMA SQUARE /n)
+* Meaning of standard error like any standard deviation, it shows variablity fo the sample means
+* standard error used in most statistical tests becuase it show how well you approximated true mean
+* when sample size increase the standard error is decrerases & bigger sample gives better approximation

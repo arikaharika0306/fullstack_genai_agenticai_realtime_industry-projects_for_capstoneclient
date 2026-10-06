@@ -1,0 +1,32 @@
+* So far we covered DESCRIPTIVE STATISTICS but now we INFERENTIAL STATISTICS.
+* Inferential statistics mainly corelate on probability & distribution
+* I would say the population value based on sample data
+* we will understand what is distrbution, point estimates, confidence intervals before u get into datascience
+=============================================================================================================
+DISTRIBUTION -
+
+* In statistics when we are talk about distribution = probability distribution
+* E.g - Normal distribution, Binomial distribution, Uniform distribution
+* Distribution is a function that shows the possible values for a variable and how often they occur.
+* Rolling a die it has 6 sides - when you rolling a dia what is probability to get 1 = 1/6, probability of 2 = 2/6
+* Impossible to get probability of 7 therefor the probability is 0
+* the distribution of given event of rolling a die will be given the following table
+* you can see the probability of all side equal to 100%
+* Each probability distribution is associated with graph describing the liklihood of occurance of every event & this 
+  type of distribution is called uniform distribution.
+* To more understand distribution is defined by the underline probability not the graph & graph is just visual representive
+
+
+* Now let us think about rolling two dice what are the possibilitie? (Total=36)
+* whats the probability of getting '1' ?  --- <<answer is 0>> & this event is impossible becuase we never get 0 as we dont have 
+  0 side 
+* whats the probability of getting '2'? --- 1/36 (0.03)
+* what is the probability of getting '3'? --- 2/36 (0.06) & same way we will continue the probability for 2 dice
+* Now lets see the visual representive of the graph of rolling 2 dice
+* Next we will see the continuous distribution
+
+===============================================================================================================
+
+
+
+
